@@ -28,6 +28,9 @@ Dataset of more than 90,000 hospital Intensive Care Unit (ICU) visits from patie
 This data is part of a growing global effort and consortium spanning Argentina, Australia, New Zealand, Sri Lanka, Brazil, and more than 200 hospitals in the United States.
 
 https://gossis.mit.edu/about/
+
+WiDS Datathon 2020
+
 https://www.kaggle.com/c/widsdatathon2020
 
 ## Model
