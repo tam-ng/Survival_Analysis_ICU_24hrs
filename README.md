@@ -1,4 +1,4 @@
-# Survival_Analysis_ICU_24hrs
+# ICU_Survival_Analysis_24hrs
 
 ## Business Use Case
 - In clinical practice, estimates of mortality risk can be useful in triage and resource allocation
