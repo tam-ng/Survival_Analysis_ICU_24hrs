@@ -7,7 +7,7 @@
   - prepare discussions with patients and their families around expected outcomes
 - Help payers to know how the health outcomes of their policyholders will be affected, so that payers can identify useful policies
 
-## Probelm Statements
+## Problem Statements
 MIT's GOSSIS community initiative is seeking an efficient way to address the problems with existing severity of illness systems: 
 - They often lack generalizability beyond the patients on whom the models were developed, and
 - The models are often proprietary, costly to use (APACHE scoring system…), and suffer from opaque algorithms
