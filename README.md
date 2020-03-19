@@ -2,10 +2,10 @@
 
 ## Business Use Case
 - In clinical practice, estimates of mortality risk can be useful in triage and resource allocation
-- Help hospital to:
+- It helps hospital to:
   - determine appropriate levels of care
   - prepare discussions with patients and their families around expected outcomes
-- Help payers to know how the health outcomes of their policyholders will be affected, so that payers can identify useful policies
+- Also helps payers to know how the health outcomes of their policyholders will be affected, so that payers can identify useful policies
 
 ## Problem Statements
 MIT's GOSSIS community initiative is seeking an efficient way to address the problems with existing severity of illness systems: 
